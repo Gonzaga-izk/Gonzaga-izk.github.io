@@ -1,0 +1,16 @@
+	table, tr, th {
+		border: 2px groove;
+		border-radius: 10px;
+		border-color: #7CFC00;
+		}
+	th, tr {
+		background-color: #7CFC00;
+		}
+	h1 {
+		  font-family: "Lucida Handwriting", cursive;
+		color: #3CB371;
+		  font-size: 45px;
+		}
+	h2 {
+		  font-size: 30px;
+		}
